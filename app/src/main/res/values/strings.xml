@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginAndRegisterUsingRetrofit</string>
+    <string-array name="Course">
+        <item>please select course</item>
+        <item>BCA</item>
+        <item>MCA</item>
+        <item>B.TECH</item>
+        <item>B.COM</item>
+        <item>BAA</item>
+        <item>M.TECH</item>
+    </string-array>
+
+</resources>
